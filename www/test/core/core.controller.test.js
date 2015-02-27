@@ -1,6 +1,6 @@
 'use strict';
   
-describe('Sample', function(){
+describe('controllerTest', function(){
     var scope; //we'll use this scope in our tests
   
     // tests start here

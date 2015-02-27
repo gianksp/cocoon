@@ -6,7 +6,7 @@
  * @param  {[type]} $timeout)   {}          [description]
  * @return {[type]}             [description]
  */
-angular.module('cocoon').controller('appController', function($rootScope, $scope, $ionicModal, $timeout) {
+angular.module('core').controller('controller', function($rootScope, $scope, $ionicModal, $timeout) {
 
 
 });

@@ -19,6 +19,7 @@ module.exports = function(config) {
       {pattern: 'www/lib/ionic/js/angular/angular-animate.js',            watch: false},
       {pattern: 'www/lib/ionic/js/angular/angular-sanitize.js',           watch: false},
       {pattern: 'www/lib/ionic/js/angular-ui/angular-ui-router.js',       watch: false},
+      {pattern: 'www/lib/requirejs/require.js',                           watch: false},
       'www/js/*.js',
       'www/module/**/*.js',
       'www/test/**/*.js'
